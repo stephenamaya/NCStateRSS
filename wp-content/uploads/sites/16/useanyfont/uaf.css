@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'roboto-medium';
+					src: url('/wp-content/uploads/sites/16/useanyfont/8838Roboto-Medium.woff2') format('woff2'),
+						url('/wp-content/uploads/sites/16/useanyfont/8838Roboto-Medium.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.roboto-medium{font-family: 'roboto-medium' !important;}
+
+						h1, h2, h3, h4, h5, h6, .entry-title, .widget-title, .site-title, .site-description, body, p, blockquote, li, a, strong, b, em{
+					font-family: 'roboto-medium' !important;
+				}
+		
